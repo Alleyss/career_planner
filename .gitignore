@@ -1,0 +1,5 @@
+__pycache__
+components/__pycache__
+career_plans.db
+users.db
+config.py
